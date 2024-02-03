@@ -7,6 +7,7 @@ needs Docker and Terraform to run.
 
 ### Installing Docker on Ubuntu 
 https://docs.docker.com/desktop/install/ubuntu/
+
 https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 
 ### Installing terraform 
